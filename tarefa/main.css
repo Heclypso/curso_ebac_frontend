@@ -35,3 +35,11 @@ body {
   #taskList li.completed {
     text-decoration: line-through;
   }
+
+
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 30px;
+    margin-bottom: 18px;
+  }
