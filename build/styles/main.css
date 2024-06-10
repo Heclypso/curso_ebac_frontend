@@ -3,11 +3,13 @@
 }
 body {
   background-color: #561919;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f5f6fa;
   height: 2px;
 }
 li {
   list-style: none;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .container {
   max-width: 960px;
@@ -70,9 +72,12 @@ header .profile-avatar {
 .projects-list {
   margin-top: 32px;
 }
+.projects-list-item {
+  padding-right: 5%;
+}
 .projects-list-item a {
   text-decoration: none;
-  background-color: #0097e6;
+  background-color: #8d8d8d;
   display: block;
   padding: 16px 20px;
   margin-bottom: 16px;
@@ -80,10 +85,10 @@ header .profile-avatar {
   color: #f5f6fa;
   font-weight: bold;
   border-radius: 30px;
-  border: 2px solid #0097e6;
+  border: 2px solid #8d8d8d;
   transition: all ease 0.5;
 }
 .projects-list-item a:hover {
-  color: #0097e6;
+  color: #8d8d8d;
   background-color: transparent;
 }
