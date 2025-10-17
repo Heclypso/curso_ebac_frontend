@@ -13,5 +13,5 @@ a maior quantidade possível de navegadores e dispositivos utilizando Presets do
 
 ## Uso
 
-Você pode digitar npm run build para ver o output do código já transpilado.
+Você pode digitar npm run build no terminal do Visual Studio Code para ver o output do código já transpilado.
 
