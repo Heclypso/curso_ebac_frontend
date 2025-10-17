@@ -11,5 +11,7 @@ a maior quantidade possível de navegadores e dispositivos utilizando Presets do
 
 - Transpilação;
 
+Uso
 
+Você pode digitar npm run build para ver o output do código já transpilado.
 
